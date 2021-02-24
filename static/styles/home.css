@@ -1,0 +1,33 @@
+#form {
+    font-family: 'sans-serif';
+    font-size: 24px;
+}
+
+#submit {
+    color: white;
+    background-color: aqua;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#lyrics {
+    background-color: beige;
+    padding: 5px 20px;
+    border: 2px aqua;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+body {
+    text-align: center;
+    background-color: gray;
+    font-family: 'sans-serif';
+    font-weight: normal;
+    line-height: 48px;
+}
+
+p {
+    color: grey;
+    font-size: 16px;
+}
